@@ -3,5 +3,5 @@ int main()
 {
     using namespace std;
     cout<<"HelloWorld!"<<endl;
-	return 0;
+    return 0;
 }
