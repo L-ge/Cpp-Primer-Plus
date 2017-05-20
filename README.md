@@ -1,2 +1,2 @@
 # My-Primer-Plus-Practice
-我的C++ Primer Plus练习
+我的C++ Primer Plus（6th edition）练习
